@@ -17,6 +17,7 @@ public class newfirst {
 
 		WebDriverManager.chromedriver().setup(); // take care of jar files corresponding to the OS
      System.out.println("hi");
+     System.out.println("how r u");
 		WebDriver driver = new ChromeDriver();
 		WebDriverWait wait = new WebDriverWait(driver, 30);
 		driver.manage().window().maximize();
