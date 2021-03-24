@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-24T15:05:40 EDT" name="Suite" finished-at="2020-08-24T15:06:32 EDT" duration-ms="51821">
+  <suite started-at="2020-09-19T18:08:47 EDT" name="Default suite" finished-at="2020-09-19T18:10:08 EDT" duration-ms="80516">
     <groups>
     </groups>
-    <test started-at="2020-08-24T15:05:40 EDT" name="Test" finished-at="2020-08-24T15:06:32 EDT" duration-ms="51821">
+    <test started-at="2020-09-19T18:08:47 EDT" name="Default test" finished-at="2020-09-19T18:10:08 EDT" duration-ms="80516">
       <class name="newtest.newfirst">
-        <test-method signature="negativelogin2()[pri:0, instance:newtest.newfirst@30b7c004]" started-at="2020-08-24T15:05:41 EDT" name="negativelogin2" finished-at="2020-08-24T15:06:32 EDT" duration-ms="51602" status="PASS">
+        <test-method signature="negativelogin2()[pri:0, instance:newtest.newfirst@30b7c004]" started-at="2020-09-19T18:08:48 EDT" name="negativelogin2" finished-at="2020-09-19T18:10:08 EDT" duration-ms="80252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- negativelogin2 -->
       </class> <!-- newtest.newfirst -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
