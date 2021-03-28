@@ -21,6 +21,9 @@ public class newfirst {
 		WebDriver driver = new ChromeDriver();
 		WebDriverWait wait = new WebDriverWait(driver, 30);
 		driver.manage().window().maximize();
+
+		//Notes for Github by Prajna added ui tests
+		// changes2
 		//Notes for Github
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.get("http://magento.com");
