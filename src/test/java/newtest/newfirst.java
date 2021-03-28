@@ -25,6 +25,7 @@ public class newfirst {
 		//Notes for Github by Prajna added ui tests
 		// changes2
 		//Notes for Github
+		//home page changes
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.get("http://magento.com");
 		driver.findElement(By.xpath("//*[@id=\"block-header\"]/ul/li[9]/a/span[1]/div")).click();
